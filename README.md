@@ -1,3 +1,3 @@
 ## React Native Timer App
 
-### A mobile application that replicates the IOS timer.
+A simple cross platform (iOS and Android) React Native timer app. 
